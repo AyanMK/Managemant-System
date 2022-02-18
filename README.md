@@ -1,2 +1,2 @@
 # Java
-Those project are maded in my university time period.
+This is all my project based on management system
